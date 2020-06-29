@@ -22,7 +22,7 @@ Tested on 1709, 1803, 1809, 1904 versions.
   * press "New"
   * "Begin the task" option - choose "At startup"
   * "Repeat task every" option - choose 5 minutes (or any other frequency). I recommend to choose 5 minutes option to prevent all possible triggers, which might invoke Windows Update service as soon as possible
-  * "for a duration of" - choose "Indefinitely"
+  * "for a duration of" option - choose "Indefinitely"
   * press "OK"
 * on "Actions" tab
   * press "New"
