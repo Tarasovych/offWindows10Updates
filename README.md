@@ -31,3 +31,12 @@ Tested on 1709, 1803, 1809, 1904 versions.
   * press "OK"
 * press "OK" on "Create Task" window
 You are done!
+
+### Additional trigger setup
+
+* on "Triggers" tab
+  * press "New"
+  * "Begin the task" - "On an event"
+  * "Log" - "Microsoft-Windows-WindowsUpdateClient/Operational"
+  * "Source" - "WindowsUpdateClient"
+  * "Event ID" - [43](https://answers.microsoft.com/en-us/insider/forum/all/windows-update-event-triggers-confusion/12eb5c38-bbf1-4bcf-acde-df0005abaa8e)
